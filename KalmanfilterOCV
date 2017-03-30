@@ -1,6 +1,5 @@
 /******************************************
- * OpenCV Tutorial: Ball Tracking using   *
- * Kalman Filter                          *
+ ** OpenCV :  Tracking the ball using Kalman Filter **                          
  ******************************************/
 
 // Module "core"
